@@ -1,6 +1,7 @@
 ---
 title: "Station 6"
 subtitle: "Thema Station 6"
+summary: "Zusammenfassung Station 6"
 ---
 
 Text Station 6

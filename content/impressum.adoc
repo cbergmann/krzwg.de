@@ -1,0 +1,20 @@
+---
+title: "Impressum"
+subtitle: "Wichtiger Rechtskram"
+---
+
+== Diensteanbieter
+
+Clemens Bergmann
+
+Frankensteiner Str. 15
+
+64297 Darmstadt
+
+== Kontaktmöglichkeiten
+
+E-Mail-Adresse: webmaster@krzwg.de.
+
+Telefon: +49 6151 6279177.
+
+link:https://datenschutz-generator.de/?l=de[Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke]

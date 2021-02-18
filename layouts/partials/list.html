@@ -1,0 +1,19 @@
+<section class="list">
+  {{ partial "header" .Page }}
+  <div class="container">
+    <div class="content">
+    <article>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Page.Content}}
+    </article>
+    {{- $paginator := .Page.Paginate .pages -}}
+    {{- range $paginator.Pages }}
+      {{ .Page.Render "summary" }}
+    {{- end }}
+    </div>
+
+    <footer class="footer metadata">
+      {{ template "_internal/pagination.html" .Page }}
+    </footer>
+  </div>
+</section>
