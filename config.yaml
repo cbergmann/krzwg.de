@@ -1,0 +1,12 @@
+baseURL: https://krzwg.de/
+languageCode: de-de
+author:
+  name: Clemens Bergmann
+params:
+  description: Kinderkreuzweg Darmstadt Eberstadt # The description of your site (used on a <meta> tag)
+title: Kinderkreuzweg Darmstadt Eberstadt
+theme: Blogpaper
+menu:
+  main:
+    - name: 2021
+      url: /1/
