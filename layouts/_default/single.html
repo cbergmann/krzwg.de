@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <article class="post">
+    {{ partial "header" . }}
+
+    <div class="container">
+      <div class="content">{{ .Content }}</div>
+
+
+      <div class="next-post">
+	{{ if .NextInSection }}
+	<a class="link-reverse" href="{{ .NextInSection.Permalink }}?ref=footer">« {{ .NextInSection.Title | truncate 50 "..." }}</a>
+	{{ end }}
+</div>
+
+<div class="previous-post">
+	{{ if .PrevInSection }}
+	<a class="link-reverse" href="{{ .PrevInSection.Permalink }}?ref=footer">{{ .PrevInSection.Title | truncate 50 "..."}} »</a>
+	{{ end }}
+</div>
+
+      {{- if .Params.tags }}
+      <footer class="footer">
+        {{- partial "taxonomies" (dict "Page" . "term" "tags") }}
+      </footer>
+      {{- end }}
+    </div>
+  </article>
+{{ end }}
