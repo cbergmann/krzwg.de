@@ -1,5 +1,0 @@
----
-title: "Datenschutz"
-subtitle: "Wirklich Wichtiger Rechtskram"
----
-
