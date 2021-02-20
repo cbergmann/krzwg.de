@@ -1,9 +1,9 @@
 ---
 title: "Familienkreuzweg 2021"
-subtitle: "Kreuzwegthema"
+subtitle: "Was wirklich zählt!"
 ---
 
-Startseite des Familienkreuzwegs 2021
+Herzlich Willkommen auf der Seite des Familienkreuzweg Darmstadt Eberstadt 2021.
 
 ++++
 <figure class="banner">
