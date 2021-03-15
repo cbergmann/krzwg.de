@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="osrm" version="1.1">
+    <metadata>
+        <name>Kinderkreuzweg Eberstadt</name>
+        <copyright author="OpenStreetMap contributors">
+            <license>http://www.openstreetmap.org/copyright</license>
+        </copyright>
+        <link href="http://map.project-osrm.org/?z=18&amp;center=49.812782%2C8.658020&amp;loc=49.813128%2C8.655204&amp;loc=49.812761%2C8.658160&amp;loc=49.812674%2C8.660676&amp;loc=49.810618%2C8.661931&amp;loc=49.812474%2C8.665064&amp;loc=49.813166%2C8.665606&amp;hl=de&amp;alt=0&amp;srv=2">
+            <text>OpenStreetMap Routing with Open Source Routing Machine</text>
+        </link>
+        <time>2021-02-18T19:13:48.440Z</time>
+    </metadata>
+    <wpt lat="49.81313" lon="8.6552"><name>Station 1</name><link href="https://krzwg.de/21/1" /><sym>1</sym></wpt>
+    <wpt lat="49.81277" lon="8.65817"><name>Station 2</name><link href="https://krzwg.de/21/2" /><sym>2</sym></wpt>
+    <wpt lat="49.81266" lon="8.66068"><name>Station 3</name><link href="https://krzwg.de/21/3" /><sym>3</sym></wpt>
+    <wpt lat="49.81057" lon="8.66193"><name>Station 4</name><link href="https://krzwg.de/21/4" /><sym>4</sym></wpt>
+    <wpt lat="49.81097" lon="8.66362"><name>Station 5</name><link href="https://krzwg.de/21/5" /><sym>5</sym></wpt>
+    <wpt lat="49.81317" lon="8.66558"><name>Station 6</name><link href="https://krzwg.de/21/6" /><sym>6</sym></wpt>
+    <trk>
+        <trkseg>
+            <trkpt lat="49.81313" lon="8.6552"/>
+            <trkpt lat="49.81307" lon="8.65657"/>
+            <trkpt lat="49.81304" lon="8.65697"/>
+            <trkpt lat="49.81301" lon="8.65742"/>
+            <trkpt lat="49.81293" lon="8.6578"/>
+            <trkpt lat="49.81286" lon="8.65796"/>
+            <trkpt lat="49.81277" lon="8.65817"/>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.81277" lon="8.65817"/>
+            <trkpt lat="49.81273" lon="8.65824"/>
+            <trkpt lat="49.81259" lon="8.65865"/>
+            <trkpt lat="49.81254" lon="8.65912"/>
+            <trkpt lat="49.8126" lon="8.65998"/>
+            <trkpt lat="49.81264" lon="8.66047"/>
+            <trkpt lat="49.81265" lon="8.66059"/>
+            <trkpt lat="49.81266" lon="8.66068"/>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.81266" lon="8.66068"/>
+            <trkpt lat="49.81209" lon="8.66083"/>
+            <trkpt lat="49.81206" lon="8.66085"/>
+            <trkpt lat="49.81203" lon="8.66103"/>
+            <trkpt lat="49.81198" lon="8.66138"/>
+            <trkpt lat="49.81187" lon="8.66153"/>
+            <trkpt lat="49.8117" lon="8.66164"/>
+            <trkpt lat="49.81117" lon="8.6618"/>
+            <trkpt lat="49.81101" lon="8.66185"/>
+            <trkpt lat="49.81062" lon="8.66192"/>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.81057" lon="8.66193"/>
+            <trkpt lat="49.81075" lon="8.66277"/>
+            <trkpt lat="49.81097" lon="8.66362"/>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.81097" lon="8.66362"/>
+            <trkpt lat="49.81139" lon="8.66411"/>
+            <trkpt lat="49.81172" lon="8.66437"/>
+            <trkpt lat="49.81186" lon="8.66455"/>
+            <trkpt lat="49.81223" lon="8.66496"/>
+            <trkpt lat="49.81235" lon="8.665"/>
+            <trkpt lat="49.81248" lon="8.66507"/>
+            <trkpt lat="49.81251" lon="8.66512"/>
+            <trkpt lat="49.81255" lon="8.66517"/>
+            <trkpt lat="49.81261" lon="8.6653"/>
+            <trkpt lat="49.81266" lon="8.66539"/>
+            <trkpt lat="49.81271" lon="8.66544"/>
+            <trkpt lat="49.81274" lon="8.66546"/>
+            <trkpt lat="49.81281" lon="8.66547"/>
+            <trkpt lat="49.81303" lon="8.66553"/>
+            <trkpt lat="49.81317" lon="8.66558"/>
+        </trkseg>
+        <trkseg>
+            <trkpt lat="49.81317" lon="8.66558"/>
+        </trkseg>
+    </trk>
+</gpx>

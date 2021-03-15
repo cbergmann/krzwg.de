@@ -1,7 +1,0 @@
----
-title: "Station 5"
-subtitle: "Thema Station 5"
-summary: "Zusammenfassung Station 5"
----
-
-Text Station 5

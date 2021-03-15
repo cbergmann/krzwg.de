@@ -1,0 +1,8 @@
+---
+title: "Station 6"
+subtitle: "Thema Station 6"
+summary: "Zusammenfassung Station 6"
+url: "/21/6/"
+---
+
+Text Station 6

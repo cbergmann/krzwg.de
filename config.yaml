@@ -1,4 +1,4 @@
-baseURL: https://krzwg.de/
+baseURL: https://beta.krzwg.de/
 languageCode: de-de
 author:
   name: Clemens Bergmann
@@ -9,4 +9,4 @@ theme: Blogpaper
 menu:
   main:
     - name: 2021
-      url: /1/
+      url: /21/
