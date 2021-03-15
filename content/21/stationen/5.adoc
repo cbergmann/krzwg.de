@@ -1,8 +1,19 @@
 ---
 title: "Station 5"
-subtitle: "Thema Station 5"
-summary: "Zusammenfassung Station 5"
+summary: "Erinnern"
+subtitle: "Erinnern"
 url: "/21/5/"
+aliases:
+    - /5 
 ---
 
-Text Station 5
+Jesus wird ans Kreuz genagelt und stirbt.
+
+== Ein Kind aus Bolivien berichtet
+
+„Vor kurzem ist meine Cousine und ihre Familie weggezogen. Die reichen Landbesitzer haben ihnen ihr Land weggenommen. Nun haben wir sie schon länger nicht mehr gesehen. Das ist wirklich traurig, denn ich vermisse sie. Und sie wissen nicht, wovon sie jetzt leben sollen.“
+include::.zitate.adoc[]
+
+== Gebet
+
+Herr, lass uns niemals vergessen, wer oder was uns wirklich wichtig ist. Gib uns den Mut aus unserem Herzen zu sprechen und unsere Erinnerungen mit anderen zu teilen. Amen

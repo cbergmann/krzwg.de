@@ -1,8 +1,19 @@
 ---
 title: "Station 2"
-subtitle: "Thema Station 2"
-summary: "Zusammenfassung Station 2"
+summary: "Aufstehen"
+subtitle: "Aufstehen"
 url: "/21/2/"
+aliases:
+    - /2
 ---
 
-Text Station 2
+Auf dem Kreuzweg stolpert Jesus. Er steht auf.
+
+== Ein Kind aus Bolivien berichtet
+
+„Unsere Ernte ist sehr unregelmäßig. Bei uns gibt es Wochen, in denen essen wir jeden Tag dasselbe. Das macht leider gar keinen Spaß und manchmal bekomme ich davon Bauchschmerzen. Doch ich weiß, dass Zeiten kommen, in denen die Ernte wieder besser ausfallen und das Essen wieder besser schmecken wird.“
+include::.zitate.adoc[]
+
+== Gebet
+
+Herr, hilf uns, die Höhen und Tiefen, die vor uns liegen, zu überwinden. Gib uns Kraft, nach dem Stolpern wieder aufzustehen. Schenke den Menschen Mut und sende uns ein Zeichen, wenn emand unsere Hilfe benötigt. Amen

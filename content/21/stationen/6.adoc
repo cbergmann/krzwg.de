@@ -1,8 +1,19 @@
 ---
 title: "Station 6"
-subtitle: "Thema Station 6"
-summary: "Zusammenfassung Station 6"
+summary: "Hoffen und Glauben"
+subtitle: "Hoffen und Glauben"
 url: "/21/6/"
+aliases:
+    - /6 
 ---
 
-Text Station 6
+Die Frauen entdecken das leere Grab. Jesus ist auferstanden!
+
+== Ein Kind aus Bolivien berichtet
+
+„Vor kurzem wurde meine Mama in den Gemeinderat gewählt. Sie darf jetzt mitentscheiden, welche Produkte wir erzeugen und verkaufen. Noch vor einiger Zeit hat sich niemand für ihre Meinung interessiert. Ich bin sicher, dass sie das toll machen wird. Ich möchte später, so wie sie, auch in den Gemeinderat.“
+include::.zitate.adoc[]
+
+== Gebet
+
+Herr, hilf uns, niemals die Hoffnung und den Glauben an dich zu verlieren. Begleite uns auf unserem Weg und weise uns die Richtung, damit wir einander helfen zu sehen, was in unserem Leben wirklich wichtig ist. Amen

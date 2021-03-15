@@ -6,6 +6,10 @@ params:
   description: Kreuzweg Darmstadt Eberstadt # The description of your site (used on a <meta> tag)
 title: Kreuzweg Darmstadt Eberstadt
 theme: Blogpaper
+enableInlineShortcodes: true
+markup:
+  asciidocExt:
+    workingFolderCurrent: true
 menu:
   main:
     - name: 2021

@@ -1,8 +1,19 @@
 ---
 title: "Station 4"
-subtitle: "Thema Station 4"
-summary: "Zusammenfassung Station 4"
+summary: "Respektieren"
+subtitle: "Respektieren"
 url: "/21/4/"
+aliases:
+    - /4 
 ---
 
-Text Station 4
+Jesus bekommt die Kleider abgenommen.
+
+== Ein Kind aus Bolivien berichtet
+
+„Unsere Gemeinde besitzt viel Land, doch immer wieder kommen reichere Menschen, die dort ohne uns zu fragen die Bäume fällen. Oder sie bohren Löcher in den Boden, weil sie Öl finden wollen. Das ist ungerecht, denn das ist unser Zuhause. Wir können nichts dagegen tun und fühlen uns machtlos.“
+include::.zitate.adoc[]
+
+== Gebet
+
+Herr, die Erde ist das Haus, in dem wir mit allen Menschen, Tieren und Pflanzen gemeinsam leben. Lass uns dieses Haus gut pflegen, schenke unserer Erde, Regen und Sonne, damit all ihre Bedürfnisse erfüllt werden. Und öffne uns die Augen, damit wir früh genug bemerken, wenn es unserem Zuhause schlecht geht. Amen

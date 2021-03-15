@@ -1,8 +1,19 @@
 ---
 title: "Station 3"
-subtitle: "Thema Station 3"
-summary: "Zusammenfassung Station 3"
+summary: "Zusammenhalten"
+subtitle: "Zusammenhalten"
 url: "/21/3/"
+aliases:
+    - /3
 ---
 
-Text Station 3
+Jesus erhält Unterstützung. Veronika reicht ihm ein Tuch.
+
+== Ein Kind aus Bolivien berichtet
+
+„In unserer Gemeinde halten wir zusammen. Alle Familien unterstützen sich gegenseitig. Und dann gibt es noch die Hilfsorganisationen. Sie bringen uns beispielsweise neue Gemüsesamen und Pflänzchen, damit wir unseren Gemüsegarten erweitern können. Dieses Gemüse können wir dann wieder mit den anderen Familien teilen.“
+include::.zitate.adoc[]
+
+== Gebet
+
+Herr, hilf uns jeden Menschen als einen Freund oder eine Freundin anzusehen. Schenke allen Menschen den Freund oder die Freundin, den sie für ihr Leben brauchen, die ihnen Mut macht und der sie trägt. Amen
