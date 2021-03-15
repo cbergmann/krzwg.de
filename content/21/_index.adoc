@@ -6,3 +6,10 @@ subtitle: "Was wirklich zählt!"
 Herzlich Willkommen auf der Seite des Familienkreuzweg Darmstadt Eberstadt 2021.
 
 Sie finden die link:/21/stationen[Stationen] auf der extra Seite.
+
+Unsere Texte basieren auf dem link:https://fastenaktion.misereor.de/fileadmin/user_upload_fastenaktion/02-liturgie/kreuzweg-kinder-fastenaktion-2021.pdf[Kinderkreuzweg "Was wirklich zählt!"] der link:https://fastenaktion.misereor.de/[Misereor Fastenaktion 2021].
+
+Über eine link:fastenaktion.misereor.de/spenden[Spende] an Misereor würden wir uns freuen.
+
+[link=https://fastenaktion.misereor.de/spenden] 
+image::spendenbanner.gif[Spendenbanner,412,160]  
