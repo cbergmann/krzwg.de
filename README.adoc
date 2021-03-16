@@ -1,0 +1,11 @@
+= Familienkreuzweg Darmstadt Eberstadt
+
+Dies ist das Repository des link:https://krzwg.de[Familienkreuzweg Darmstadt Eberstadt].
+
+Aktuell enthält es nur den Kreuzweg zur Misereor Fastenaktion 2021.
+
+Unsere Texte basieren auf dem link:https://fastenaktion.misereor.de/fileadmin/user_upload_fastenaktion/02-liturgie/kreuzweg-kinder-fastenaktion-2021.pdf[Kinderkreuzweg "Was wirklich zählt!"] der link:https://fastenaktion.misereor.de/[Misereor Fastenaktion 2021].
+
+Über eine link:fastenaktion.misereor.de/spenden[Spende] an Misereor würden wir uns freuen.
+
+Die Webseite wurde mit link:https://gohugo.io/[HUGO] erstellt und verwendet den link:https://github.com/normanderwan/Blogpaper/[Blogpaper Theme].
