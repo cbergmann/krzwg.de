@@ -1139,27 +1139,27 @@ Time: 02/19/2021 22:24:02
 		<rect width="1280" height="493"/>
 	</g>
 	<g id="Waypoints" transform="matrix(1.5006 0 0 1.4874 300.78 -12.337)">
-		<a target="_blank" xlink:href="https://krzwg.de/1/1">
+		<a target="_blank" xlink:href="https://krzwg.de/21/1">
 			<circle id="wpt1:marker" cx="100" cy="102.98" r="3" fill-opacity="0" stroke="#000"/>
 			<text id="wpt1:name" x="105" y="100" fill="#000000" font-family="Verdana" font-size="11px">Station 1</text>
 		</a>
-		<a target="_blank" xlink:href="https://krzwg.de/1/2">
+		<a target="_blank" xlink:href="https://krzwg.de/21/2">
 			<circle id="wpt2:marker" cx="243.06" cy="129.84" r="3" fill-opacity="0" stroke="#000"/>
 			<text id="wpt2:name" x="248.0636" y="129.83501" fill="#000000" font-family="Verdana" font-size="11px">Station 2</text>
 		</a>
-		<a target="_blank" xlink:href="https://krzwg.de/1/3">
+		<a target="_blank" xlink:href="https://krzwg.de/21/3">
 			<circle id="wpt3:marker" cx="363.97" cy="138.04" r="3" fill-opacity="0" stroke="#000"/>
 			<text id="wpt3:name" x="368.96921" y="138.0397" fill="#000000" font-family="Verdana" font-size="11px">Station 3</text>
 		</a>
-		<a target="_blank" xlink:href="https://krzwg.de/1/4">
+		<a target="_blank" xlink:href="https://krzwg.de/21/4">
 			<circle id="wpt4:marker" cx="424.18" cy="293.93" r="3" fill-opacity="0" stroke="#000"/>
 			<text id="wpt4:name" x="429.18109" y="305" fill="#000000" font-family="Verdana" font-size="11px">Station 4</text>
 		</a>
-		<a target="_blank" xlink:href="https://krzwg.de/1/5">
+		<a target="_blank" xlink:href="https://krzwg.de/21/5">
 			<circle id="wpt5:marker" cx="505.59" cy="264.09" r="3" fill-opacity="0" stroke="#000"/>
 			<text id="wpt5:name" x="515" y="270" fill="#000000" font-family="Verdana" font-size="11px">Station 5</text>
 		</a>
-		<a transform="translate(-73.094 -1.2825)" target="_blank" xlink:href="https://krzwg.de/1/6">
+		<a transform="translate(-73.094 -1.2825)" target="_blank" xlink:href="https://krzwg.de/21/6">
 			<circle id="wpt6:marker" cx="671.82" cy="101.92" r="3" fill-opacity="0" stroke="#000"/>
 			<text id="wpt6:name" x="614.53394" y="103.20632" fill="#000000" font-family="Verdana" font-size="11px">Station 6</text>
 		</a>

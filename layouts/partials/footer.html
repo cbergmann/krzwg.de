@@ -3,7 +3,7 @@
   {{- with .Site.Copyright -}}
   {{ . }}
   {{- else -}}
-  &copy; {{ now.Year }} {{- with .Site.Author }} {{ .name }}. {{- end }} <a href='{{ "" | relURL }}'>{{ .Site.Title }}</a> | <a href='{{ "impressum" |relURL}}'>Impressum</a> | <a href='{{ "datenschutz" |relURL}}'>Datenschutz</a> 
+  &copy; {{ now.Year }} {{- with .Site.Author }} {{ .name }}. {{- end }} <a href='{{ "" | relURL }}'>{{ .Site.Title }}</a> | <a href='{{ "impressum" |relURL}}'>Impressum</a> | <a href='{{ "datenschutz" |relURL}}'>Datenschutz</a> | <a href="https://github.com/cbergmann/krzwg.de/">Github</a> 
   {{- end -}}
 </footer>
 {{- end }}

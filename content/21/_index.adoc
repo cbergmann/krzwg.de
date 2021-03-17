@@ -7,9 +7,13 @@ Herzlich Willkommen auf der Seite des Familienkreuzweg Darmstadt Eberstadt 2021.
 
 Sie finden die link:/21/stationen[Stationen] auf der extra Seite.
 
-Unsere Texte basieren auf dem link:https://fastenaktion.misereor.de/fileadmin/user_upload_fastenaktion/02-liturgie/kreuzweg-kinder-fastenaktion-2021.pdf[Kinderkreuzweg "Was wirklich zählt!"] der link:https://fastenaktion.misereor.de/[Misereor Fastenaktion 2021].
+Wir danken allen, die an der Realisierung dieses Projekts mitgewirkt haben. Vor allem der link:http://pfarrgruppe.de[katholischen Gemeinde St. Josef und Georg] und dem Ökumenischen Arbeitskreis Eberstadt.
 
-Über eine link:fastenaktion.misereor.de/spenden[Spende] an Misereor würden wir uns freuen.
+Unsere Texte basieren auf dem link:https://fastenaktion.misereor.de/fileadmin/user_upload_fastenaktion/02-liturgie/kreuzweg-kinder-fastenaktion-2021.pdf[Kinderkreuzweg "Was wirklich zählt!"] der link:https://fastenaktion.misereor.de/[Misereor Fastenaktion 2021].
+Die Musik wurde von link:https://www.davidbeyer-musiker.de[David Beyer] produziert.
+Wir verwenden die link:https://www.donbosco-medien.de/die-idee/c-570[Erzählschiene] "link:https://www.donbosco-medien.de/t-574/4193[Der Kreuzweg Jesu]" mit freundlicher genehmigung der link:https://www.donbosco-medien.de[Don Bosco Medien GmbH].
+
+Über eine link:https://fastenaktion.misereor.de/spenden[Spende] an Misereor würden wir uns freuen.
 
 [link=https://fastenaktion.misereor.de/spenden] 
 image::spendenbanner.gif[Spendenbanner,412,160]  
