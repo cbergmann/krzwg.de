@@ -2,9 +2,9 @@
 title: "Familienkreuzweg 2021"
 subtitle: "Was wirklich zählt!"
 layout: list
+aliases:
+    - /1/stationen 
 ---
-
-Unten finden Sie die Stationen des Kreuzwegs.
 
 ++++
 <figure class="banner">
@@ -18,7 +18,7 @@ Im Gebiet von Lerchenberg und Kernesbellen liegen ab Palmsonntag Markierungsstei
 
 Zu jeder Station gibt es kurze Videos und Texte.
 
-Sollten Sie über kein mobiles Endgerät verfügen, können Sie auch unseren link:/21/FlyerKreuzweg.pdf[Flyer] mit den wichtigsten Texten herunterladen und ausdrucken.
+Details zum Ablauf finden Sie in der link:/21/anleitung[Anleitung].
 
-Neben der Liste unten können Sie auch auf die ensprechende Station oben klicken. Bei Interesse können Sie die Route auch link:/21/r[online ansehen] oder als link:/21/route.gpx[GPX Datei] fürs GPS Gerät herunterladen.
+Neben der Liste unten können Sie auch auf die ensprechende Station oben im Bild klicken. Bei Interesse können Sie die Route auch link:/21/r[online ansehen] oder als link:/21/route.gpx[GPX Datei] fürs GPS Gerät herunterladen.
 

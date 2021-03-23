@@ -7,13 +7,16 @@ aliases:
     - /3
 ---
 
+image::/21/stationen/stein3.jpg[role="right"]
+
 Jesus erhält Unterstützung. Veronika reicht ihm ein Tuch.
 
 == Ein Kind aus Bolivien berichtet
-
-„In unserer Gemeinde halten wir zusammen. Alle Familien unterstützen sich gegenseitig. Und dann gibt es noch die Hilfsorganisationen. Sie bringen uns beispielsweise neue Gemüsesamen und Pflänzchen, damit wir unseren Gemüsegarten erweitern können. Dieses Gemüse können wir dann wieder mit den anderen Familien teilen.“
+[quote]
+In unserer Gemeinde halten wir zusammen. Alle Familien unterstüt-zen sich gegenseitig. Und dann gibt es noch die Hilfsorganisationen. Sie bringen uns beispielsweise neue Gemüsesamen und Pflänz-chen, damit wir unseren Gemüse-garten erweitern können. Dieses Gemüse können wir dann wieder mit den anderen Familien teilen.
 include::.zitate.adoc[]
 
 == Gebet
 
+[.gebet]
 Herr, hilf uns jeden Menschen als einen Freund oder eine Freundin anzusehen. Schenke allen Menschen den Freund oder die Freundin, den sie für ihr Leben brauchen, die ihnen Mut macht und der sie trägt. Amen

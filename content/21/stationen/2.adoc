@@ -7,13 +7,16 @@ aliases:
     - /2
 ---
 
+image::/21/stationen/stein2.jpg[role="right"]
+
 Auf dem Kreuzweg stolpert Jesus. Er steht auf.
 
 == Ein Kind aus Bolivien berichtet
-
-„Unsere Ernte ist sehr unregelmäßig. Bei uns gibt es Wochen, in denen essen wir jeden Tag dasselbe. Das macht leider gar keinen Spaß und manchmal bekomme ich davon Bauchschmerzen. Doch ich weiß, dass Zeiten kommen, in denen die Ernte wieder besser ausfallen und das Essen wieder besser schmecken wird.“
+[quote]
+Unsere Ernte ist sehr unregelmä-ßig. Bei uns gibt es Wochen, in de-nen essen wir jeden Tag dasselbe. Das macht leider gar keinen Spaß und manchmal bekomme ich davon Bauchschmerzen. Doch ich weiß, dass Zeiten kommen, in denen die Ernte wieder besser ausfallen und das Essen wieder besser schme-cken wird.
 include::.zitate.adoc[]
 
 == Gebet
 
+[.gebet]
 Herr, hilf uns, die Höhen und Tiefen, die vor uns liegen, zu überwinden. Gib uns Kraft, nach dem Stolpern wieder aufzustehen. Schenke den Menschen Mut und sende uns ein Zeichen, wenn emand unsere Hilfe benötigt. Amen

@@ -7,13 +7,16 @@ aliases:
     - /1 
 ---
 
+image::/21/stationen/stein1.jpg[role="right"]
+
 Jesus wird gefangen genommen, dem Richter vorgeführt. Jesus soll gekreuzigt werden.
 
 == Ein Kind aus Bolivien berichtet
-
-„Es gibt eine Firma, die unser Land haben möchte, auf dem wir Gemüse anbauen. Mein Vater wehrt sich dagegen. Neulich hat ihm jemand gesagt: „Du solltest dich nicht wehren! Sonst wird dir etwas Schlimmes passieren. Jetzt haben wir Angst um ihn.“
+[quote]
+Es gibt eine Firma, die unser Land haben möchte, auf dem wir Gemüse anbauen. Mein Vater wehrt sich dagegen. Neulich hat ihm jemand gesagt: „Du solltest dich nicht wehren! Sonst wird dir etwas Schlimmes passieren. Jetzt haben wir Angst um ihn.
 include::.zitate.adoc[]
 
 == Gebet
 
+[.gebet]
 Herr, schenke uns Mut, damit wir uns für andere einsetzen, wenn sie Hilfe brauchen. Lass niemanden allein, sondern führe die Einsamen und Hilfesuchenden in unsere Mitte. Amen
