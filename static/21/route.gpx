@@ -11,12 +11,12 @@
         </link>
         <time>2021-02-18T19:13:48.440Z</time>
     </metadata>
-    <wpt lat="49.81313" lon="8.6552"><name>Station 1</name><link href="https://krzwg.de/1/1" /><sym>1</sym></wpt>
-    <wpt lat="49.81277" lon="8.65817"><name>Station 2</name><link href="https://krzwg.de/1/2" /><sym>2</sym></wpt>
-    <wpt lat="49.81266" lon="8.66068"><name>Station 3</name><link href="https://krzwg.de/1/3" /><sym>3</sym></wpt>
-    <wpt lat="49.81057" lon="8.66193"><name>Station 4</name><link href="https://krzwg.de/1/4" /><sym>4</sym></wpt>
-    <wpt lat="49.81097" lon="8.66362"><name>Station 5</name><link href="https://krzwg.de/1/5" /><sym>5</sym></wpt>
-    <wpt lat="49.81317" lon="8.66558"><name>Station 6</name><link href="https://krzwg.de/1/6" /><sym>6</sym></wpt>
+    <wpt lat="49.81313" lon="8.6552"><name>Station 1</name><link href="https://krzwg.de/21/1" /><sym>1</sym></wpt>
+    <wpt lat="49.81277" lon="8.65817"><name>Station 2</name><link href="https://krzwg.de/21/2" /><sym>2</sym></wpt>
+    <wpt lat="49.81266" lon="8.66068"><name>Station 3</name><link href="https://krzwg.de/21/3" /><sym>3</sym></wpt>
+    <wpt lat="49.81057" lon="8.66193"><name>Station 4</name><link href="https://krzwg.de/21/4" /><sym>4</sym></wpt>
+    <wpt lat="49.81097" lon="8.66362"><name>Station 5</name><link href="https://krzwg.de/21/5" /><sym>5</sym></wpt>
+    <wpt lat="49.81317" lon="8.66558"><name>Station 6</name><link href="https://krzwg.de/21/6" /><sym>6</sym></wpt>
     <trk>
         <trkseg>
             <trkpt lat="49.81313" lon="8.6552"/>

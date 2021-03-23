@@ -4,4 +4,4 @@ subtitle: ""
 layout: single
 ---
 
-Bis jetzt gibt es auf dieser Seite nur den link:/1/[Familienkreuzweg 2021]. Evtl. kommt in Zukunft noch mehr.
+Bis jetzt gibt es auf dieser Seite nur den link:/21/[Familienkreuzweg 2021]. Evtl. kommt in Zukunft noch mehr.

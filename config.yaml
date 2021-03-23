@@ -1,12 +1,16 @@
 baseURL: https://krzwg.de/
 languageCode: de-de
 author:
-  name: Clemens Bergmann
+  name: Christiane & Clemens Bergmann
 params:
   description: Kreuzweg Darmstadt Eberstadt # The description of your site (used on a <meta> tag)
 title: Kreuzweg Darmstadt Eberstadt
 theme: Blogpaper
+enableInlineShortcodes: true
+markup:
+  asciidocExt:
+    workingFolderCurrent: true
 menu:
   main:
     - name: 2021
-      url: /1/
+      url: /21/

@@ -1,0 +1,22 @@
+---
+title: "Station 5"
+summary: "Erinnern"
+subtitle: "Erinnern"
+url: "/21/5/"
+aliases:
+    - /5 
+---
+
+image::/21/stationen/stein5.jpg[role="right"]
+
+Jesus wird ans Kreuz genagelt und stirbt.
+
+== Ein Kind aus Bolivien berichtet
+[quote]
+Vor Kurzem sind meine Cousine und ihre Familie weggezogen. Die reichen Landbesitzer haben ihnen ihr Land weggenommen. Nun haben wir sie schon länger nicht mehr ge-sehen. Das ist wirklich traurig, denn ich vermisse sie. Und sie wissen nicht, wovon sie jetzt leben sollen.
+include::.zitate.adoc[]
+
+== Gebet
+
+[.gebet]
+Herr, lass uns niemals vergessen, wer oder was uns wirklich wichtig ist. Gib uns den Mut aus unserem Herzen zu sprechen und unsere Erinnerungen mit anderen zu teilen. Amen

@@ -1,0 +1,26 @@
+---
+title: "Familienkreuzweg 2021"
+subtitle: "Was wirklich zählt!"
+layout: single
+---
+
+Herzlich Willkommen auf der Seite des Familienkreuzweg Darmstadt Eberstadt 2021.
+
+
+[.fas.fa-exclamation-circle]
+Die Seite befindet sich noch im Aufbau. Die Videos und Steine werden zur Karwoche veröffentlicht bzw. ausgelegt.
+
+Sie finden den Flyer und die Details zu den Stationen auf der link:/21/stationen[Seite Stationen].
+
+Details zum Ablauf finden Sie in der link:/21/anleitung[Anleitung].
+
+Wir danken allen, die an der Realisierung dieses Projekts mitgewirkt haben. Vor allem der link:http://pfarrgruppe.de[katholischen Gemeinde St. Josef und Georg] und dem Ökumenischen Arbeitskreis Eberstadt.
+
+Unsere Texte sind aus dem link:https://fastenaktion.misereor.de/fileadmin/user_upload_fastenaktion/02-liturgie/kreuzweg-kinder-fastenaktion-2021.pdf[Kinderkreuzweg "Was wirklich zählt!",xmlns:dct="http://purl.org/dc/terms/",rel="dct:source"] der link:https://fastenaktion.misereor.de/[Misereor Fastenaktion 2021] entnommen.
+Die link:https://www.youtube.com/watch?v=s3BnS7Lr_-I[Musik] wurde von link:https://www.davidbeyer-musiker.de[David Beyer] produziert.
+Wir verwenden die link:https://www.donbosco-medien.de/die-idee/c-570[Erzählschiene] "link:https://www.donbosco-medien.de/t-574/4193[Der Kreuzweg Jesu]" mit freundlicher Genehmigung der link:https://www.donbosco-medien.de[Don Bosco Medien GmbH].
+
+Über eine link:https://fastenaktion.misereor.de/spenden[Spende] an Misereor würden wir uns freuen.
+
+[link=https://fastenaktion.misereor.de/spenden] 
+image::spendenbanner.gif[Spendenbanner,412,160]  
