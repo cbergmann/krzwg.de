@@ -1,5 +1,3 @@
-@import "all.min.css";
-
 .fa-exclamation-triangle::before{
   color:darkred;
 }

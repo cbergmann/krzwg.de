@@ -16,6 +16,10 @@ Auf dem Kreuzweg stolpert Jesus. Er steht auf.
 Unsere Ernte ist sehr unregelmä-ßig. Bei uns gibt es Wochen, in de-nen essen wir jeden Tag dasselbe. Das macht leider gar keinen Spaß und manchmal bekomme ich davon Bauchschmerzen. Doch ich weiß, dass Zeiten kommen, in denen die Ernte wieder besser ausfallen und das Essen wieder besser schme-cken wird.
 include::.zitate.adoc[]
 
+== Videos
+
+{{% krzwgvideos 2 %}}
+
 == Gebet
 
 [.gebet]

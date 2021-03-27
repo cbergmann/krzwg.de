@@ -1,16 +1,12 @@
 ---
-title: "Familienkreuzweg 2021"
+title: "Misereor Familienkreuzweg 2021"
 subtitle: "Was wirklich zählt!"
 layout: single
 ---
 
 Herzlich Willkommen auf der Seite des Familienkreuzweg Darmstadt Eberstadt 2021.
 
-
-[.fas.fa-exclamation-circle]
-Die Seite befindet sich noch im Aufbau. Die Videos und Steine werden zur Karwoche veröffentlicht bzw. ausgelegt.
-
-Sie finden den Flyer und die Details zu den Stationen auf der link:/21/stationen[Seite Stationen].
+Sie finden den link:/21/FlyerKreuzweg.pdf[Flyer] und die Details zu den Stationen auf der link:/21/stationen[Seite Stationen].
 
 Details zum Ablauf finden Sie in der link:/21/anleitung[Anleitung].
 

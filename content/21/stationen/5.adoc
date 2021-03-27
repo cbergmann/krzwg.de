@@ -16,6 +16,10 @@ Jesus wird ans Kreuz genagelt und stirbt.
 Vor Kurzem sind meine Cousine und ihre Familie weggezogen. Die reichen Landbesitzer haben ihnen ihr Land weggenommen. Nun haben wir sie schon länger nicht mehr ge-sehen. Das ist wirklich traurig, denn ich vermisse sie. Und sie wissen nicht, wovon sie jetzt leben sollen.
 include::.zitate.adoc[]
 
+== Videos
+
+{{% krzwgvideos 5 %}}
+
 == Gebet
 
 [.gebet]

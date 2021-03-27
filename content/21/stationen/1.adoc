@@ -16,6 +16,10 @@ Jesus wird gefangen genommen, dem Richter vorgeführt. Jesus soll gekreuzigt wer
 Es gibt eine Firma, die unser Land haben möchte, auf dem wir Gemüse anbauen. Mein Vater wehrt sich dagegen. Neulich hat ihm jemand gesagt: „Du solltest dich nicht wehren! Sonst wird dir etwas Schlimmes passieren. Jetzt haben wir Angst um ihn.
 include::.zitate.adoc[]
 
+== Videos
+
+{{% krzwgvideos 1 %}}
+
 == Gebet
 
 [.gebet]
