@@ -11,4 +11,9 @@ Ich wünsche euch viel Spaß damit.
 
 Euer Hugo
 
-
+{{% hugovideos 1 %}}
+{{% hugovideos 2 %}}
+{{% hugovideos 3 %}}
+{{% hugovideos 4 %}}
+{{% hugovideos 5 %}}
+{{% hugovideos 6 %}}
