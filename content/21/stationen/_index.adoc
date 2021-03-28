@@ -1,5 +1,5 @@
 ---
-title: "Familienkreuzweg 2021"
+title: "Misereor Familienkreuzweg 2021"
 subtitle: "Was wirklich zählt!"
 layout: list
 aliases:
@@ -13,12 +13,12 @@ aliases:
 </figure>
 ++++
 
-Wir laden Sie ein, den diesjährigen Misereor-Kinderkreuzweg mit ihrer Familie zu begehen.
+Wir laden Sie ein, mit ihrer Familie, einem Freund oder auch allein die Stationen des diesjährigen Misereor-Kinderkreuzwegs in der Natur ab zu laufen.
 Im Gebiet von Lerchenberg und Kernesbellen liegen ab Palmsonntag Markierungssteine zu den einzelnen Stationen aus.
 
 Zu jeder Station gibt es kurze Videos und Texte.
 
-Details zum Ablauf finden Sie in der link:/21/anleitung[Anleitung].
+Details zum Ablauf und unseren link:/21/FlyerKreuzweg.pdf[Flyer] finden Sie in der link:/21/anleitung[Anleitung].
 
 Neben der Liste unten können Sie auch auf die ensprechende Station oben im Bild klicken. Bei Interesse können Sie die Route auch link:/21/r[online ansehen] oder als link:/21/route.gpx[GPX Datei] fürs GPS Gerät herunterladen.
 

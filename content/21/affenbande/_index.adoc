@@ -1,0 +1,19 @@
+---
+title: "Misereor Familienkreuzweg 2021"
+subtitle: "Affenbande"
+---
+
+Hallo liebe Affenbande,
+
+unten findet ihr meine Videos für den Kreuzweg.
+
+Ich wünsche euch viel Spaß damit.
+
+Euer Hugo
+
+{{% hugovideos 1 %}}
+{{% hugovideos 2 %}}
+{{% hugovideos 3 %}}
+{{% hugovideos 4 %}}
+{{% hugovideos 5 %}}
+{{% hugovideos 6 %}}

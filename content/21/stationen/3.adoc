@@ -16,6 +16,10 @@ Jesus erhält Unterstützung. Veronika reicht ihm ein Tuch.
 In unserer Gemeinde halten wir zusammen. Alle Familien unterstüt-zen sich gegenseitig. Und dann gibt es noch die Hilfsorganisationen. Sie bringen uns beispielsweise neue Gemüsesamen und Pflänz-chen, damit wir unseren Gemüse-garten erweitern können. Dieses Gemüse können wir dann wieder mit den anderen Familien teilen.
 include::.zitate.adoc[]
 
+== Videos
+
+{{% krzwgvideos 3 %}}
+
 == Gebet
 
 [.gebet]

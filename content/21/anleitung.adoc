@@ -1,5 +1,5 @@
 ---
-title: "Familienkreuzweg 2021"
+title: "Misereor Familienkreuzweg 2021"
 subtitle: "Anleitung"
 ---
 
@@ -14,12 +14,15 @@ Wenn sie wollen, können Sie auch einen eigenen gestalteten Stein dazulegen.
 Auf der Seite link:/21/stationen[Stationen] finden Sie pro Station ein Video, welches dort betrachtet werden kann.
 Zwischen den Stationen kann das Lied link:https://www.youtube.com/watch?v=s3BnS7Lr_-I[„Geh mit uns“] gesungen werden.
 
-Es wird zwei Alternativen der Videos geben:
+Es gibt zwei Alternativen der Videos:
 Die eine Version ist für jüngere Kinder im Kindergartenalter gedacht.
 Die andere Version ab Schulalter.
 Sie unterscheiden sich nur anhand der Erzählform des Kreuzwegs Jesu.
 Für die jüngeren Kinder wurde der Kreuzweg mit Erzählfiguren nacherzählt.
-Für die älteren ist der Kreuzweg mit der link:https://www.donbosco-medien.de/die-idee/c-570[Erzählschiene] "link:https://www.donbosco-medien.de/t-574/4193[Der Kreuzweg Jesu]" der link:https://www.donbosco-medien.de[Don Bosco Medien GmbH] dargestellt. 
+Für die älteren ist der Kreuzweg mit der link:https://www.donbosco-medien.de/die-idee/c-570[Erzählschiene] "link:https://www.donbosco-medien.de/t-574/4193[Der Kreuzweg Jesu]" der link:https://www.donbosco-medien.de[Don Bosco Medien GmbH] dargestellt.
+
+
+Jedes Video gibt es in drei Auflösungen: 720p, 480p, 144p. Alle Videos können über den Knopf im Video herunter geladen werden. 
 
 Sie benötigen für den Kreuzweg ein tragbares Wiedergabegerät für Videos, z. B. Handy, Tablet, Laptop.
 Falls Sie keinen mobilen Datenvertrag besitzen oder schlechten Empfang haben, können Sie sich den link:/21/FlyerKreuzweg.pdf[Flyer] und die Videos zuhause herunterladen.
@@ -34,4 +37,4 @@ Vor dem Kreuzweg: 	Einleitungsvideo mit Lydia Haun + Lied von David Beyer.
 
 Je Station:		Kreuzwegerzählung + Moment der Stille + Gebet + Lied von David Beyer.
 
-Die Berichte aus Bolivien von Misereor befinden sich nur im Flyer
+Die Berichte aus Bolivien von Misereor befinden sich nur im Flyer.

@@ -1,0 +1,9 @@
+== Station {{ .Get 0 }}
+
+++++
+<video class="js-player" playsinline controls data-poster="https://static.krzwg.de/videos/Affenbande/KreuzwegStation{{ .Get 0 }}Affenbande.jpg">
+  <source src="https://static.krzwg.de/videos/Affenbande/KreuzwegStation{{ .Get 0 }}Affenbande.720.mp4" type="video/mp4" size="720" />
+  <source src="https://static.krzwg.de/videos/Affenbande/KreuzwegStation{{ .Get 0 }}Affenbande.480.mp4" type="video/mp4" size="480" />
+  <source src="https://static.krzwg.de/videos/Affenbande/KreuzwegStation{{ .Get 0 }}Affenbande.144.mp4" type="video/mp4" size="144" />
+</video>
+++++

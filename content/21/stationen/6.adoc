@@ -16,6 +16,10 @@ Die Frauen entdecken das leere Grab. Jesus ist auferstanden!
 Vor Kurzem wurde meine Mama in den Gemeinderat gewählt. Sie darf jetzt mitentscheiden, welche Produkte wir erzeugen und verkaufen. Noch vor einiger Zeit hat sich niemand für ihre Meinung interessiert. Ich bin sicher, dass sie das toll machen wird. Ich möchte später, so wie sie, auch in den Gemeinderat.
 include::.zitate.adoc[]
 
+== Videos
+
+{{% krzwgvideos 6 %}}
+
 == Gebet
 
 [.gebet]

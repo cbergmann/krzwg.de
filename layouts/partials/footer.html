@@ -13,4 +13,31 @@
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Familienkreuzweg Darmstadt Eberstadt</span> von <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Christiane & Clemens Bergmann</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz</a>.
   {{- end -}}
 </footer>
+<script src="https://static.krzwg.de/js/plyr/plyr.min.js"></script>
+<script>
+  const players = Plyr.setup('.js-player', {
+    blankVideo: 'https://static.krzwg.de/videos/blank.mp4',
+    iconUrl: 'https://static.krzwg.de/plyr.svg',
+    resetOnEnd: true,
+    quality: { default: 480, options: [720, 480, 144] },
+    controls: [
+    'play-large', // The large play button in the center
+    // 'restart', // Restart playback
+    // 'rewind', // Rewind by the seek time (default 10 seconds)
+    'play', // Play/pause playback
+    // 'fast-forward', // Fast forward by the seek time (default 10 seconds)
+    'progress', // The progress bar and scrubber for playback and buffering
+    'current-time', // The current time of playback
+    // 'duration', // The full duration of the media
+    'mute', // Toggle mute
+    'volume', // Volume control
+    'captions', // Toggle captions
+    'settings', // Settings menu
+    'pip', // Picture-in-picture (currently Safari only)
+    'airplay', // Airplay (currently Safari only)
+    'download', // Show a download button with a link to either the current source or a custom URL you specify in your options
+    'fullscreen', // Toggle fullscreen
+    ],
+  });
+</script>
 {{- end }}

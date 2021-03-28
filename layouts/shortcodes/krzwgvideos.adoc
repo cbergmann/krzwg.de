@@ -1,0 +1,14 @@
+++++
+<video class="js-player" playsinline controls data-poster="https://static.krzwg.de/videos/KiTakinder/KreuzwegStation{{ .Get 0 }}KiTakinder.jpg">
+  <source src="https://static.krzwg.de/videos/KiTakinder/KreuzwegStation{{ .Get 0 }}KiTakinder.720.mp4" type="video/mp4" size="720" />
+  <source src="https://static.krzwg.de/videos/KiTakinder/KreuzwegStation{{ .Get 0 }}KiTakinder.480.mp4" type="video/mp4" size="480" />
+  <source src="https://static.krzwg.de/videos/KiTakinder/KreuzwegStation{{ .Get 0 }}KiTakinder.144.mp4" type="video/mp4" size="144" />
+</video>
+<video class="js-player" playsinline controls data-poster="https://static.krzwg.de/videos/Schulkinder/KreuzwegStation{{ .Get 0 }}Schulkinder.jpg">
+  <source src="https://static.krzwg.de/videos/Schulkinder/KreuzwegStation{{ .Get 0 }}Schulkinder.720.mp4" type="video/mp4" size="720" />
+  <source src="https://static.krzwg.de/videos/Schulkinder/KreuzwegStation{{ .Get 0 }}Schulkinder.480.mp4" type="video/mp4" size="480" />
+  <source src="https://static.krzwg.de/videos/Schulkinder/KreuzwegStation{{ .Get 0 }}Schulkinder.144.mp4" type="video/mp4" size="144" />
+</video>
+++++
+
+Die Videos der Affenbande finden sich auf einer link:/21/affenbande/[extra Seite].

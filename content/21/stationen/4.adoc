@@ -16,6 +16,10 @@ Jesus bekommt die Kleider abgenommen.
 Unsere Gemeinde besitzt viel Land, doch immer wieder kommen reichere Menschen, die dort ohne uns zu fragen die Bäume fällen. Oder sie bohren Löcher in den Bo-den, weil sie Öl finden wollen. Das ist ungerecht, denn das ist unser Zuhause. Wir können nichts dage-gen tun und fühlen uns machtlos.
 include::.zitate.adoc[]
 
+== Videos
+
+{{% krzwgvideos 4 %}}
+
 == Gebet
 
 [.gebet]
