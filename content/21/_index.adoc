@@ -6,7 +6,7 @@ layout: single
 
 Herzlich Willkommen auf der Seite des Familienkreuzweg Darmstadt Eberstadt 2021.
 
-Sie finden den link:/21/FlyerKreuzweg.pdf[Flyer] und die Details zu den Stationen auf der link:/21/stationen[Seite Stationen].
+Sie finden den link:/21/FlyerKreuzweg.pdf[Flyer], die Videos und die Details zu den Stationen auf der link:/21/stationen[Seite Stationen].
 
 Details zum Ablauf finden Sie in der link:/21/anleitung[Anleitung].
 

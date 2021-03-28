@@ -4,7 +4,7 @@ author:
   name: Christiane & Clemens Bergmann
 params:
   description: Kreuzweg Darmstadt Eberstadt # The description of your site (used on a <meta> tag)
-title: Kreuzweg Darmstadt Eberstadt
+title: Kreuzweg Eberstadt
 theme: Blogpaper
 enableInlineShortcodes: true
 markup:
@@ -12,5 +12,5 @@ markup:
     workingFolderCurrent: true
 menu:
   main:
-    - name: 2021
-      url: /21/
+    - name: Stationen/Videos
+      url: /21/stationen/
